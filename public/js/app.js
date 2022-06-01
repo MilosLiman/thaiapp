@@ -133,8 +133,7 @@ closeBtn.addEventListener('click', () => {
 })
 
 
-// IZRACUNATI CENU I ISPISATI U POLJU DOLE DESNO
-
+// IZRACUNATI CENU I ISPISATI U POLJU
 const recreative_1w = 199;
 const recreative_1m = 399;
 
