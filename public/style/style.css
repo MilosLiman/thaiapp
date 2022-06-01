@@ -643,12 +643,6 @@ textarea:focus{
     flex-direction: column;
 }
 
-/* #general-datas{
-    display: flex;
-    flex-direction: column;
-
-} */
-
 .tab {
     display: flex;
     flex-direction: column;
